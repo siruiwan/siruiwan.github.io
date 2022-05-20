@@ -1,0 +1,32 @@
+---
+title: "Sirui Wan" 
+image: "headshot.jpeg" 
+links:
+  - label: ResearchGate
+    url: "https://www.researchgate.net/profile/Sirui-Wan"
+  - label: Twitter
+    url: "https://twitter.com/sirui_wan"
+  - label: Google Scholar
+    url: "https://scholar.google.com/citations?user=iryYqosAAAAJ&hl=en"
+  - label: Email
+    url: "mailto:siruiw1@uci.edu"
+output:
+  postcards::trestles
+site: distill::distill_website
+---
+
+I am currently a Ph.D. candidate in School of Education at the University of California, Irvine, working with Drs. [Drew H. Bailey](https://sites.uci.edu/dhbailey/) and [Jacquelynne S. Eccles](https://www.faculty.uci.edu/profile.cfm?faculty_id=5971). 
+
+I study why people pursue specific educational trajectories and career paths. The ultimate goal of my research is to imply how to help students, especially those from historically underrepresented and marginalized groups, fulfill their potential. 
+
+My work has been published in journals such as _Psychological Bulletin_, _Cognition_, and _Economics of Education Review_. I am a recipient of multiple honors, including [the APA Dissertation Research Award](https://www.apa.org/science/awards/2021-dissertation-research-award), [the Graduate Student Research Excellence Award from AERA Division C](https://www.aera.net/Division-C/Awards), and [the UCI Graduate Dean's Dissertation Fellowship](https://education.uci.edu/ucisoe_news/wan_gddf_june21).
+
+Here is my [CV](https://drive.google.com/file/d/18xc3UslHcPgXYbeDOr5__3BlEdotmLwj/view?usp=sharing).
+<br>
+<br>
+<br>
+
+photo credit: Steve Zylius / UC Irvine
+
+
+
