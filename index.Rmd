@@ -1,6 +1,6 @@
 ---
 title: "Sirui Wan" 
-image: "headshot2p.jpg" 
+image: "headshot2p1.jpg" 
 links:
   - label: ResearchGate
     url: "https://www.researchgate.net/profile/Sirui-Wan"
