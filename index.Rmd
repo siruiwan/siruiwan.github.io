@@ -9,15 +9,15 @@ links:
   - label: Google Scholar
     url: "https://scholar.google.com/citations?user=iryYqosAAAAJ&hl=en"
   - label: Email
-    url: "mailto:siruiw1@uci.edu"
+    url: "mailto:swan25@wisc.edu"
 output:
   postcards::trestles
 site: distill::distill_website
 ---
 
-I am an educational and developmental psychologist studying why people pursue specific educational trajectories and career paths. My dissertation focuses on students’ tendency to look for and exaggerate potential discrepancies between their relative strengths and weaknesses across academic subjects during K-12. The ultimate goal of my research is to imply how to help students, especially those from historically underrepresented and marginalized groups, fulfill their potential. 
+I am an educational and developmental psychologist studying why people pursue specific educational trajectories and career paths. The ultimate goal of my research is to imply how to help students, especially those from historically underrepresented and marginalized groups, fulfill their potential. 
 
-I earned my Ph.D. from the School of Education at the University of California, Irvine where I worked with  Drs. [Drew H. Bailey](https://sites.uci.edu/dhbailey/) and [Jacquelynne S. Eccles](https://www.faculty.uci.edu/profile.cfm?faculty_id=5971). In summer 2022, I will join the Department of Psychology at the University of Wisconsin-Madison as a postdoctoral researcher, working with Dr. [Judith Harackiewicz](https://psych.wisc.edu/staff/harackiewicz-judy/). 
+I am currently a postdoctoral researcher in the Department of Psychology at the University of Wisconsin-Madison, working with Dr. [Judith Harackiewicz](https://psych.wisc.edu/staff/harackiewicz-judy/). I earned my Ph.D. from the School of Education at the University of California, Irvine where I worked with  Drs. [Drew H. Bailey](https://sites.uci.edu/dhbailey/) and [Jacquelynne S. Eccles](https://www.faculty.uci.edu/profile.cfm?faculty_id=5971).  
 
 My work has been published in journals such as _Psychological Bulletin_, _Cognition_, and _Economics of Education Review_. I am a recipient of multiple honors, including [the APA Dissertation Research Award](https://www.apa.org/science/awards/2021-dissertation-research-award), [the Graduate Student Research Excellence Award from AERA Division C](https://www.aera.net/Division-C/Awards), and [the UCI Graduate Dean's Dissertation Fellowship](https://education.uci.edu/ucisoe_news/wan_gddf_june21).
 

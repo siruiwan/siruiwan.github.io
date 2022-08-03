@@ -1,7 +1,7 @@
 ---
 title: "CV"
 description: |
-  [Sirui Wan's CV](https://drive.google.com/file/d/1rb6x2H7DsF9Vc-GczC9H6T1ofhBU3mSJ/view?usp=sharing)
+  [Sirui Wan's CV](https://drive.google.com/file/d/1hpkfy69e7Ajc5Qd2vezF351pk5ay5FRF/view?usp=sharing)
 
 
 ---
