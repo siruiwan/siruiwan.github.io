@@ -1,6 +1,7 @@
 ---
 title: "Publications"
 description: |
+  <strong>Wan, S.</strong>, Brick, T. R., Alvarez-Vargas, D., & Bailey, D. H. (in press). Triangulating on Developmental Models with a Combination of Experimental and Non-Experimental Estimates. <i>Developmental Psychology</i>.<br><br>
   <strong>Wan, S.</strong>, Lauermann, F., Bailey, D. H., & Eccles, J. S. (in press). Developmental Changes in Students’ Use of Dimensional Comparisons to Form Ability Self-Concepts in Math and Verbal Domains. <i>Child Development</i>.<br><br>
   Tang, X., Lee, H., <strong>Wan, S.</strong>, Gaspard, H., & Salmela-Aro, K. (in press). Situating Expectancies and Subjective Task Values Across Grade Levels, Domains, and Countries: A Network Approach. <i>AERA Open</i>. [paper link](https://www.researchgate.net/publication/361607205_Situating_expectancies_and_subjective_task_values_across_grade_levels_domains_and_countries_A_network_approach)<br><br> 
   Alvarez-Vargas, D., <strong>Wan, S.</strong>, Fuchs, L., Klein, A., & Bailey, D. H. (2022). Design and Analytic Features for Reducing Biases in Skill-Building Intervention Impact Forecasts. <i>Journal of Research on Educational Effectiveness</i>. [paper link](https://www.researchgate.net/publication/361830653_Design_and_Analytic_Features_for_Reducing_Biases_in_Skill-Building_Intervention_Impact_Forecasts)<br><br>
