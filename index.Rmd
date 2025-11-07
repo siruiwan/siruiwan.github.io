@@ -4,8 +4,8 @@ image: "headshot2p1.jpg"
 links:
   - label: ResearchGate
     url: "https://www.researchgate.net/profile/Sirui-Wan"
-  - label: Twitter
-    url: "https://twitter.com/sirui_wan"
+  - label: University Profile
+    url: "https://olemiss.edu/profiles/swan1"
   - label: Google Scholar
     url: "https://scholar.google.com/citations?user=iryYqosAAAAJ&hl=en"
   - label: Email
@@ -20,6 +20,8 @@ I am an educational and developmental psychologist studying why people pursue/av
 I am currently an Assistant Professor of Psychology at the University of Mississippi. I completed my postdoctoral training in the Department of Psychology at the University of Wisconsin-Madison and earned my Ph.D. from the School of Education at the University of California, Irvine.  
 
 My work has been published in journals such as _Psychological Bulletin_, _Proceedings of the National Academy of Sciences_, _Child Development_, and _Journal of Educational Psychology_. I am a recipient of multiple honors, including [the APA Dissertation Research Award](https://www.apa.org/science/awards/2021-dissertation-research-award), [the Graduate Student Research Excellence Award from AERA Division C](https://www.aera.net/About-AERA/Awards/Division-Awards/2022-Division-Awards), and [the Hershel D. Thornburg Dissertation Award from the Society for Research on Adolescence](https://srad.memberclicks.net/2024-annual-meeting-in-chicago-portal). My research is funded by [the AVDF/ACLS Fellowships for Research on the Liberal Arts](https://www.acls.org/programs/avdf-acls-fellowships-for-research-on-the-liberal-arts/).
+
+I am recruiting new Ph.D. students to start in Fall 2026 through [the Experimental Psychology Program](https://olemiss.edu/psychology/academics/graduate-experimental/) at the University of Mississippi.
 
 <br>
 <br>
