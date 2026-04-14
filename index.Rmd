@@ -15,9 +15,7 @@ output:
 site: distill::distill_website
 ---
 
-I am a developmental psychologist studying how people end up where they are—how they explore different options, choose a path, and sometimes change direction. I am particularly interested in how opportunities and constraints shape these decisions and their long-term outcomes. 
-
-My work focuses on psychological processes in real-world settings, such as classrooms, using large-scale longitudinal surveys, institutional records, meta-analyses, and field experiments.
+I am a developmental psychologist studying how people end up where they are—how they explore different options, choose a path, and sometimes change direction. I am particularly interested in how opportunities and constraints shape these decisions and their long-term outcomes. Drawing on large-scale longitudinal surveys, institutional records, meta-analyses, and field experiments, my work examines psychological processes in real-world settings.
 
 I am currently an Assistant Professor of Psychology at the University of Mississippi. I completed my postdoctoral training in the Department of Psychology at the University of Wisconsin-Madison and earned my Ph.D. from the School of Education at the University of California, Irvine.  
 
